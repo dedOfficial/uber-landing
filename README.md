@@ -2,6 +2,6 @@
 My first adaptation experience
 
 ## Installation
-> npm install
-or
+> npm install <br>
+or <br>
 > npm i
